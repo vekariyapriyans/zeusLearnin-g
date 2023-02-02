@@ -1,6 +1,2 @@
 hello guys
-<<<<<<< HEAD
-forth c
-=======
-second commit
->>>>>>> 7d2a9fd35ad89dcc72c5e444e5542fc247416cf3
+six
